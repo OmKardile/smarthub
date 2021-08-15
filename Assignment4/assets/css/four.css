@@ -1,0 +1,44 @@
+* {
+    background-color: #252525;
+    color: white;
+    font-family: Odibee Sans;
+    font-size: 25px;
+}
+#smarthub {
+    color: black;
+    font-family: Copperplate Gothic;
+    font-weight: bolder;
+    text-align: center;
+    letter-spacing: 8px;
+    word-spacing: 10px;
+}
+#smarthub:hover{
+    text-decoration: underline;
+}
+#nashikhead:hover{
+    color: blueviolet;
+}
+#nashikhead {
+    font-size: 45px;
+    text-align: center;
+}
+#shortcut {
+    text-align: center;
+}
+#popu {
+    font-family: Comic Sans MS;
+    font-size: large;
+    margin-left: 2%;
+}
+iframe {
+    margin-top: 10px;
+    margin-left: 50px;
+    height: 400px;
+    width: 90%;
+}
+p {
+    font-size: 16px;
+    font-family: Comic Sans MS;
+    margin-left: 2%;
+    margin-right: 5%;
+}
